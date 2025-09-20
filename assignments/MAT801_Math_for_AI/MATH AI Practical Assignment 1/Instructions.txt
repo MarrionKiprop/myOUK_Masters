@@ -1,0 +1,5 @@
+Alice: 4.0
+Bob: 3.3
+Charlie: 3.7
+Diana: 3.0
+Ethan: 2.3

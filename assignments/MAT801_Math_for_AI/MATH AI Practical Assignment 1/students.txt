@@ -1,0 +1,11 @@
+Kiprop: 2.2
+Hillary : 4.2
+Edwin : 3.5
+Kiptoo : 4.5
+Kipkosgei: 2
+Boit : 3.3
+Alice: 4.0
+Bob: 3.3
+Charlie: 3.7
+Diana: 3.0
+Ethan: 2.3
