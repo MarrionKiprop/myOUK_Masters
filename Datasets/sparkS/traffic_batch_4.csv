@@ -1,0 +1,6 @@
+event_time,junction,vehicles_per_minute,avg_speed_kmh,incident_flag
+2026-03-29 21:00:00,Uhuru Highway,40,38,0
+2026-03-29 21:01:00,Waiyaki Way,33,42,0
+2026-03-29 21:02:00,Thika Road,49,35,0
+2026-03-29 21:03:00,Mombasa Road,44,36,0
+2026-03-29 21:04:00,Jogoo Road,29,41,0
