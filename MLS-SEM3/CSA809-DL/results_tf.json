@@ -1,0 +1,17 @@
+{
+  "kernels_used": [
+    32,
+    128,
+    300
+  ],
+  "epochs": 5,
+  "simple_nn": {
+    "train_time_s": 12.065902709960938,
+    "test_accuracy": 0.42289999127388
+  },
+  "cnn": {
+    "train_time_s": 141.56857657432556,
+    "test_accuracy": 0.7164999842643738,
+    "param_count": 3007414
+  }
+}
